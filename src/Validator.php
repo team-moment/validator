@@ -5,7 +5,7 @@
  * @time: 17-2-20 15:22
  */
 
-namespace Runner\Validator;
+namespace Moment\Validator;
 
 use Closure;
 

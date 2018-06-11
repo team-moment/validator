@@ -4,7 +4,7 @@
  * @email: runnerleer@gmail.com
  * @time: 17-2-27 09:59
  */
-class ValidatorTester extends \Runner\Validator\Validator
+class ValidatorTester extends \Moment\Validator\Validator
 {
     public function callValidateRule()
     {

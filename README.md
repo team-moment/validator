@@ -2,14 +2,11 @@
 
 参考了 Laravel 的验证规则语法, 同时又复制粘贴了 `vlucas/valitron` 的消息模板. 
 
-无任何依赖, 在 FastD 中使用, 可以使用扩展包
-
-[RunnerLee/validation](https://github.com/RunnerLee/validation)
-
 ## 使用
+
 ```php
 <?php
-use Runner\Validator\Validator;
+use Moment\Validator\Validator;
 
 // 增加规则扩展
 Validator::addExtension(
@@ -85,4 +82,5 @@ $rules= [
 
 ## 参考
 [https://github.com/vlucas/valitron](https://github.com/vlucas/valitron)
-[https://github.com/illuminate/validation](https://github.com/illuminate/validation)
+[https://github.com/illuminate/validation](https://github.com/illuminate/validation))
+[https://github.com/RunnerLee/validator](https://github.com/RunnerLee/validator))

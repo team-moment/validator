@@ -5,7 +5,7 @@
  * @time: 17-2-21 下午11:15
  */
 
-namespace Runner\Validator\Exceptions;
+namespace Moment\Validator\Exceptions;
 
 use RuntimeException;
 

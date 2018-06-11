@@ -4,7 +4,7 @@
  * @email: runnerleer@gmail.com
  * @time: 17-2-21 11:13
  */
-use Runner\Validator\Validator;
+use Moment\Validator\Validator;
 
 class ValidatorTest extends \PHPUnit_Framework_TestCase
 {
