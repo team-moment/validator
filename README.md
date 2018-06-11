@@ -82,5 +82,5 @@ $rules= [
 
 ## 参考
 [https://github.com/vlucas/valitron](https://github.com/vlucas/valitron)
-[https://github.com/illuminate/validation](https://github.com/illuminate/validation))
-[https://github.com/RunnerLee/validator](https://github.com/RunnerLee/validator))
+[https://github.com/illuminate/validation](https://github.com/illuminate/validation)
+[https://github.com/RunnerLee/validator](https://github.com/RunnerLee/validator)
