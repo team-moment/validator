@@ -8,8 +8,8 @@ use FastD\Http\ServerRequest;
 use Moment\Validator\Exceptions\ValidationException;
 use Moment\Validator\Validator;
 
-if (!function_exists('validator')) {
-    function validator(ServerRequest $request, array $rules)
+if (!function_exists('validator_moment')) {
+    function validator_moment(ServerRequest $request, array $rules)
     {
         $data = [];
         foreach ($rules as $field => $rule) {
