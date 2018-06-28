@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "fastd/fastd": " ^3.2"
+        "fastd/fastd": " ^3.1"
 
     },
     "require-dev": {
